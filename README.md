@@ -6,8 +6,8 @@ Tools- Python 3
 
 IDE- Spyder
 
-Brief description-Zomato dataset was considered. Explonatory data analysis was done in which data cleansing and preprossing of data was done.
-after that model building was done in which linear regression, lasso and ridge was also used but random forest regression gave the best accuracy 
+Brief description-Zomato dataset is considered. Explonatory data analysis of the dataset is done in which data cleansing and preprossing of data is done.
+After that model building is done in which linear regression, lasso and ridge are used but random forest regression gave the best accuracy 
 of 89%.
 
 Business benifits-The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the aggregate rating of each restaurant, establishment of different types of restaurant at different places.
