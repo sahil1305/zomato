@@ -6,7 +6,7 @@ Tools- Python 3
 
 IDE- Spyder
 
-Brief description-Zomato dataset is considered. Explonatory data analysis of the dataset is done in which data cleansing and preprossing of data is done.
+Brief description-Zomato dataset is considered. Exploratory data analysis of the dataset is done in which data cleansing and pre-processing of data is done.
 After that model building is done in which linear regression, lasso and ridge are used but random forest regression gave the best accuracy 
 of 89%.
 
