@@ -2,9 +2,9 @@ Objective- the main aim of this project is to do zomato restaurants analysis in 
 
 Methods & Algorithms- Random forest regression algorithm is used to build the model.
 
-Tools- Python 3
+Language- Python 
 
-IDE- Spyder
+IDE- Jupyter Notebook
 
 Brief Description-Zomato dataset is considered. Exploratory data analysis of the dataset is done in which data cleansing and pre-processing of data is done.
 After that model building is done in which linear regression, lasso and ridge are used but random forest regression gave the best accuracy 
